@@ -1,2 +1,2 @@
 # Analyzing-Netflix-Data
-Will be analyzing titles from Netflix data, focusing mainly on columns Type & Rating. Will create create graphs to see results. Data is from Kaggle.com
+Goal is to get a better understandin of the type of titles from Netflix. The data columns I will focusing mainly on are Type & Rating. Will create create graphs to see results. Data is from Kaggle.com
